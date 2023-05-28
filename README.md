@@ -77,6 +77,5 @@ ADMIN Module (http://localhost:8080/admin)
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/jaygajera17/E-commerce-project-springBoot.svg?style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 
 
